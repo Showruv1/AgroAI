@@ -1,0 +1,26 @@
+{
+    "name": "AgroAI - কৃষকের স্মার্ট সহকারী",
+    "short_name": "AgroAI",
+    "description": "কৃষকের জন্য স্মার্ট কৃষি সহায়তা ব্যবস্থা",
+    "start_url": "/AgroAI/",
+    "scope": "/AgroAI/",
+    "display": "standalone",
+    "background_color": "#f6faf7",
+    "theme_color": "#16834b",
+    "orientation": "portrait-primary",
+    "lang": "bn",
+    "icons": [
+        {
+            "src": "/AgroAI/assets/agroai-icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/AgroAI/assets/agroai-icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}

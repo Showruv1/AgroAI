@@ -1,0 +1,21 @@
+# XAMPP / local files
+xampp/
+*.log
+
+# Environment / secrets
+.env
+.env.*
+config.local.php
+
+# Database dumps
+*.sql
+*.sqlite
+*.db
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/

@@ -1,0 +1,7 @@
+<?php
+
+require_once __DIR__ . "/database.php";
+
+echo "Database connection successful.";
+
+$conn->close();
